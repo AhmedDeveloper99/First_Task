@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FIrst_TaskAspNetCoreMVC.props" />
+</Project>
